@@ -21,8 +21,6 @@ This project contains 4 subprojects that demonstrate different principles and el
 - [x] Asynchronous functions
 - [x] Stretch goal: TS Lint (deprecated so used TypeScript-ESLint instead)
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 - Tools: VS Code, TypeScript-ESLint, Google TypeScript Style
