@@ -2,7 +2,7 @@
 
 This is a compilation of basic projects that can be completed to learn TypeScript. TypeScript is essentially a typed version of JavaScript, and has a lot of similarities, but also a lot of nuances. TypeScript extends JavaScript, and can provide a better developer experience. It is also a great way to get introduced to typed language, especially if you already know JavaScript.
 
-[Demo Video]()
+[Demo Video](https://youtu.be/z0kLgY_kGfk)
 
 This project contains 4 subprojects that demonstrate different principles and elements of TypeScript
 
@@ -12,23 +12,21 @@ This project contains 4 subprojects that demonstrate different principles and el
 - Project 4: Fibonacci (recursion, terminal output)
 - Stretch Goal: TS Lint
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 **Requirements**
 
-- [X] Display output to the terminal.
-- [X] Recursion
-- [X] Classes
-- [X] Lists
-- [X] Asynchronous functions
-- [X] Stretch goal: TS Lint (deprecated so used TypeScript-ESLint instead)
+- [x] Display output to the terminal.
+- [x] Recursion
+- [x] Classes
+- [x] Lists
+- [x] Asynchronous functions
+- [x] Stretch goal: TS Lint (deprecated so used TypeScript-ESLint instead)
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-Tools: VS Code, TypeScript-ESLint, Google TypeScript Style
-Language: TypeScript
+- Tools: VS Code, TypeScript-ESLint, Google TypeScript Style
+- Language: TypeScript
 
 # Useful Websites
 
