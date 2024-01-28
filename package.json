@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@types/node": "20.8.2",
+    "gts": "^5.2.0",
+    "typescript": "~5.2.0"
+  },
+  "scripts": {
+    "lint": "gts lint",
+    "clean": "gts clean",
+    "compile": "tsc",
+    "fix": "gts fix",
+    "prepare": "npm.cmd run compile",
+    "pretest": "npm.cmd run compile",
+    "posttest": "npm.cmd run lint",
+    "start": "node .\\build\\src\\index.js",
+    "helloWorld": "node .\\src\\hello-world\\index.js",
+    "compileHelloWorld": "tsc .\\src\\hello-world\\index.ts",
+    "drawingApp": "start .\\src\\drawing-app\\index.html",
+    "compileDrawingApp": "tsc .\\src\\drawing-app\\main.ts",
+    "jokeFetcher": "node .\\src\\joke-fetcher\\main.js",
+    "compileJokeFetcher": "tsc .\\src\\joke-fetcher\\main.ts"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
