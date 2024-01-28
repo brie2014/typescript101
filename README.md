@@ -27,16 +27,12 @@ This project contains 4 subprojects that demonstrate different principles and el
 
 # Development Environment
 
-Tools: VS Code, TS Lint
+Tools: VS Code, TypeScript-ESLint, Google TypeScript Style
 Language: TypeScript
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-TypeScript Basics
+**TypeScript Basics**
 
 - [Why Use TypeScript?](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it)
 - [TypeScript Documentation](https://www.typescriptlang.org/)
@@ -46,26 +42,26 @@ TypeScript Basics
 - [Typescript Classes](https://www.w3schools.com/typescript/typescript_classes.php)
 - [TypeScript Arrays](https://www.tutorialsteacher.com/typescript/typescript-array)
 
-Setup
+**Setup**
 
 - [Setting Up a New TypeScript Project](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 - [TypeScript-ESLint](https://typescript-eslint.io/getting-started)
 - [Linting on Save](https://www.aleksandrhovhannisyan.com/blog/format-code-on-save-vs-code-eslint)
 
-Drawing App (Using Classes)
+**Drawing App**
 
 - [HTML5 Canvas Drawing App with JS (Video Tutorial)](https://www.youtube.com/watch?v=3GqUM4mEYKA)
 - [HTML5 Canvas Drawing App with JS (Article)](https://blog.openreplay.com/building-a-drawing-application-with-html5-canvas/)
 - [HTML5 Canvas Drawing App with TS (Article)](https://kernhanda.github.io/tutorial-typescript-canvas-drawing/)
 - [Canvas 2D Context Docs](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
-Async Functions
+**Async Functions**
 
 - [Async/Await in TypeScript](https://www.atatus.com/blog/introduction-to-async-await-in-typescript/)
 - [API Calls in TypeScript](https://rapidapi.com/guides/api-call-typescript)
 - [Joke API documentation (used for demoing async functions)](https://sv443.net/jokeapi/v2/)
 
-Recursive Functions
+**Recursive Functions**
 
 - [TypeScript Recursion](https://www.tutorialspoint.com/tackling-recursion-not-just-in-typescript)
 - [Recursive Functions in TypeScript](https://joshtronic.com/2020/04/20/recursive-functions-in-typescript/)
@@ -74,5 +70,5 @@ Recursive Functions
 
 - Add support for touch events in drawing app (for mobile/touch screen devices)
 - Make save button persist background color and be more secure
-- Fix eraser
 - Allow user more control over joke generator (categories, languages, number of jokes, etc.)
+- Convert existing JS project to TS to better master the syntax
