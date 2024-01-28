@@ -18,7 +18,9 @@
     "drawingApp": "start .\\src\\drawing-app\\index.html",
     "compileDrawingApp": "tsc .\\src\\drawing-app\\main.ts",
     "jokeFetcher": "node .\\src\\joke-fetcher\\main.js",
-    "compileJokeFetcher": "tsc .\\src\\joke-fetcher\\main.ts"
+    "compileJokeFetcher": "tsc .\\src\\joke-fetcher\\main.ts",
+    "fibonacci": "node .\\src\\fibonacci\\main.js",
+    "compileFibonacci": "tsc .\\src\\fibonacci\\main.ts"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
