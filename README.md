@@ -2,26 +2,26 @@
 
 This is a compilation of basic projects that can be completed to learn TypeScript. TypeScript is essentially a typed version of JavaScript, and has a lot of similarities, but also a lot of nuances. TypeScript extends JavaScript, and can provide a better developer experience. It is also a great way to get introduced to typed language, especially if you already know JavaScript.
 
+[Demo Video]()
+
 This project contains 4 subprojects that demonstrate different principles and elements of TypeScript
 
-o Project 1: Hello World (terminal output)
-o Project 2: Basic Drawing App (classes, event handlers)
-o Project 3: Joke Fetcher (asynchronous functions, terminal output, lists, loops)
-o Project 4: Fibonacci (recursion, terminal output)
-o Stretch Goal: TS Lint
-
-[Demo Video]()
+- Project 1: Hello World (terminal output)
+- Project 2: Basic Drawing App (classes, event handlers)
+- Project 3: Joke Fetcher (asynchronous functions, terminal output, lists, loops)
+- Project 4: Fibonacci (recursion, terminal output)
+- Stretch Goal: TS Lint
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-Requirements
+**Requirements**
 
-[X] Display output to the terminal.
-[X] Recursion
-[X] Classes
-[X] Lists
-[X] Asynchronous functions
-[X] Stretch goal: TS Lint (deprecated so used TypeScript-ESLint instead)
+- [X] Display output to the terminal.
+- [X] Recursion
+- [X] Classes
+- [X] Lists
+- [X] Asynchronous functions
+- [X] Stretch goal: TS Lint (deprecated so used TypeScript-ESLint instead)
 
 [Software Demo Video](http://youtube.link.goes.here)
 
